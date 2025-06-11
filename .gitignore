@@ -1,12 +1,2 @@
-# Node
-node_modules/
-dist/
-*.log
-
-# Editor configs
-.vscode/
-.idea/
-
 # Ambiente
 .env
-.env.*
